@@ -31,4 +31,4 @@ The resulting tidy data set, `tidy_data.txt`, is a tab-delimited text file conta
 - The script assumes that the Samsung data is present in the working directory.
 - The `dplyr` library is required for the script to run successfully.
 
-Feel free to contact Me for any questions or clarifications.
+Feel free to contact [OdionJoel] for any questions or clarifications.
